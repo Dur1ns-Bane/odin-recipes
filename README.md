@@ -1,1 +1,1 @@
-# odin-recipes
+This project is to show a combination of skills learned through the HTML section of the Odin Project introductory course. It combines using skills such as creating webpages, links, paragraphs, list, images, and more.
